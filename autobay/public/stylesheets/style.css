@@ -1,0 +1,136 @@
+body {
+  background-color: #434343;
+  font-family: verdana;
+}
+a {
+  color: #00b7ff;
+}
+a:hover {
+  cursor: pointer;
+}
+#header {
+  width: 96%;
+  height: 100px;
+  background-color: #a60000;
+  margin: 0 auto;
+  color: #fff;
+  text-align: center;
+}
+#menuDiv {
+  width: 16%;
+  float: right;
+}
+.menuButtons {
+  width: 60%;
+  margin: 0 auto;
+}
+#content {
+  background-color: #bf3030;
+  width: 96%;
+  margin: 0 auto;
+}
+#carInfo {
+  width: 80%;
+  background-color: #ff7373;
+}
+#reservationInfo {
+  width: 80%;
+  background-color: #ff7373;
+}
+.tableTdEven {
+  background-color: #ff7373;
+}
+.tableTdOdd {
+  background-color: #f78d8d;
+}
+tr:hover {
+  opacity: 1;
+}
+tr {
+  opacity: 0.9;
+}
+#sorttable {
+  width: 100%;
+  text-align: center;
+  border-spacing: 0;
+}
+td {
+  width: 20%;
+  height: 55px;
+}
+#carDetails1 {
+  float: left;
+  text-align: center;
+  background-color: #ffc;
+  width: 33.3%;
+  height: 500px;
+  border: 1px solid #000;
+}
+#carDetails {
+  float: left;
+  width: 30%;
+  background-color: #ff7373;
+}
+#imageDiv {
+  float: left;
+  width: 40%;
+}
+#detailImage {
+  width: 100%;
+}
+#reservationDiv1 {
+  float: left;
+  width: 33.3%;
+  background-color: #ffc;
+  height: 100%;
+  text-align: center;
+}
+#reservationDiv {
+  margin-left: 3px;
+  float: left;
+  width: 20%;
+  background-color: #ff7373;
+  text-align: center;
+}
+#detailDiv1 {
+  position: fixed;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: #ffc;
+  height: 500px;
+}
+#detailDiv {
+  width: 80%;
+  background-color: #ff7373;
+  min-height: 600px;
+}
+#bidTable {
+  border: 1px solid #000;
+}
+.carButtons {
+  background-color: #ff4040;
+}
+#form_0 {
+  background-color: #ff4040;
+  height: 40px;
+}
+#search {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+#adminDiv {
+  position: fixed;
+  width: 100%;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: #add8e6;
+  text-align: center;
+}
+#reservationInfoTab {
+  text-align: center;
+}
